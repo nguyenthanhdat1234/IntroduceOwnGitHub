@@ -51,6 +51,6 @@ Let's collaborate and bring ideas to life!
 - **Email**: (mailto:datnguyen.010802@gmail.com)
 - **LinkedIn**: (https://www.linkedin.com/in/dat-nguyen-982782191/)
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/nguyenthanhdat1234?style=social)
+![GitHub stars](https://img.shields.io/github/stars/nguyenthanhdat1234?style=social)
+![GitHub forks](https://img.shields.io/github/forks/nguyenthanhdat1234?style=social)
