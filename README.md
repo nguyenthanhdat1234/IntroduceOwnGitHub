@@ -48,9 +48,8 @@ Let's collaborate and bring ideas to life!
 
 ## 📫 Get in Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: (mailto:datnguyen.010802@gmail.com)
+- **LinkedIn**: (https://www.linkedin.com/in/dat-nguyen-982782191/)
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
