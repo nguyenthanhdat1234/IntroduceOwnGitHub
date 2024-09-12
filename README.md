@@ -53,4 +53,3 @@ Let's collaborate and bring ideas to life!
 
 ![GitHub followers](https://img.shields.io/github/followers/nguyenthanhdat1234?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nguyenthanhdat1234?style=social)
-![GitHub forks](https://img.shields.io/github/forks/nguyenthanhdat1234?style=social)
